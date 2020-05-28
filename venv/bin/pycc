@@ -1,0 +1,3 @@
+#!/home/ngecu/Desktop/Projects/kalusi/Speech Emotion Recognition(SER)/venv/bin/python
+from numba.pycc import main
+main()
